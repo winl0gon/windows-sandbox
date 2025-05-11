@@ -1,0 +1,14 @@
+<Configuration>
+<VGpu>Disable</VGpu>
+<Networking>Enable</Networking>
+<MappedFolders>
+<MappedFolder>
+<HostFolder>%USERPROFILE%\Desktop\windows-sandbox</HostFolder>
+<SandboxFolder>C:\Users\WDAGUtilityAccount\Desktop\windows-sandbox</SandboxFolder>
+<ReadOnly>true</ReadOnly>
+</MappedFolder>
+</MappedFolders>
+<LogonCommand>
+<Command>C:\Users\WDAGUtilityAccount\Desktop\windows-sandbox\sandbox-init.cmd</Command>
+</LogonCommand>
+</Configuration>
