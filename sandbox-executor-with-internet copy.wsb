@@ -9,6 +9,6 @@
 </MappedFolder>
 </MappedFolders>
 <LogonCommand>
-<!-- <Command>C:\Users\WDAGUtilityAccount\Desktop\windows-sandbox\sandbox-init.cmd</Command> -->
+<Command>C:\Users\WDAGUtilityAccount\Desktop\windows-sandbox\sandbox-init.cmd</Command>
 </LogonCommand>
 </Configuration>
